@@ -8,7 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class HelloWorldController {
 
-	String message = "Welcome to Gore!";
+	String message = "Welcome to NTTDATA!!!! This Deployment is done by Rajat Jain!";
 
 	@RequestMapping("/hello")
 	public ModelAndView showMessage(
