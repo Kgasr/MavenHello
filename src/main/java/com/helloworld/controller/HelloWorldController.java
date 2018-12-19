@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-@Controller
+Controller
 public class HelloWorldController {
 
 	String message = "Welcome to NTTDATA!!!! This Deployment is done by Rajat Jain!";
